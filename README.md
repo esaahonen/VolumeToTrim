@@ -2,15 +2,15 @@
 
 ## Summary
 
-**VolumeToTrim** is an AutoHotkey v2 script that enables the use of a simple USB volume knob as a trim wheel in Microsoft Flight Simulator. It converts the volume knob’s "volume up" and "volume down" inputs into key presses, which can be mapped to the elevator trim up and elevator trim down controls in MSFS. Pressing the volume knob (mute function) also generates a key press.
+**VolumeToTrim** is an AutoHotkey v2 script that enables the use of a simple $15 USB volume knob as a trim wheel in Microsoft Flight Simulator 2020. It converts the volume knob’s "volume up" and "volume down" inputs into key presses, which can be mapped to the elevator trim up and elevator trim down controls in MSFS. Pressing the volume knob (mute function) also generates a key press. 
 
 In some aircraft in MSFS, the response of the trim wheel is very slow, and you would need to turn the wheel countless times if the script only output single key presses. To address this, **VolumeToTrim** has two functions:
 1. You can define a minimum number of key presses generated for each movement of the wheel.
-2. Additionally, there is a feature where turning the wheel faster generates more key presses, which increase gradually. This feature can also be disabled.
+2. Additionally, there is a feature where turning the wheel faster generates more key presses per movement, which increase gradually. This feature can also be disabled.
 
-These and other settings in **VolumeToTrim** are configured via an .ini file located in the same directory. The effects of the settings are described within the .ini file.
+These and other settings in **VolumeToTrim** are configured via an .ini file. The effects of the settings are described within the .ini file.
 
-**Note**: This is something I quickly put together for my own use, and I wanted to share it in case someone else finds it useful. I cannot provide support if something does not work for you.
+**Note**: This is something I quickly put together for my own use, and I wanted to share it in case someone else finds it useful. I cannot provide support if something does not work for you but it should be pretty simple to use.
 
 ## Requirements
 
