@@ -18,6 +18,11 @@ These and other settings in **VolumeToTrim** are configured via an .ini file. Th
 
 ## Installation 
 
+### Use the compiled version
+
+1. Download the .exe + .ini files
+2. Run the .exe
+
 ### Use as a Script Only
 
 1. Install AutoHotkey v2 
