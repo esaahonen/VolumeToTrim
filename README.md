@@ -20,20 +20,21 @@ These and other settings in **VolumeToTrim** are configured via an .ini file. Th
 
 ### Use the compiled version
 
-1. Download the .exe + .ini files
-2. Run the .exe
+1. Download the VolumeToTrim.zip
+2. Unzip the file to the desired directory
+3. Run the .exe
 
 ### Use as a Script Only
 
 1. Install AutoHotkey v2 
-2. Download VolumeToTrim.zip.
+2. Download the source code
 3. Unzip the file to the desired directory.
 4. Double-click VolumeToTrim.ahk to run it.
 
-### Compile the Script to an .exe File
+### Compile the Script to an .exe file by yourself
 
 1. Install AutoHotkey v2 
-2. Download VolumeToTrim.zip.
+2. Download the source code
 3. Unzip the file to the desired directory.
 4. Open **AutoHotkey Dash** from the Start menu.
 5. Press **Compile**, and let it install **Ahk2Exe** for you if it is not installed already.
